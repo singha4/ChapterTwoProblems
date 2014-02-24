@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Room", "Room\Room.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carpet", "Carpet\Carpet.csproj", "{BE92654E-BFBF-43BC-9B7E-254ADB79FABE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoursAndMinutes", "HoursAndMinutes\HoursAndMinutes.csproj", "{0A6304DA-B7F9-4E2A-B7CA-12F8702D5D4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eggs", "Eggs\Eggs.csproj", "{ED9FBB25-CC24-4934-9BCB-C1E4CB2EBE02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -25,6 +29,14 @@ Global
 		{BE92654E-BFBF-43BC-9B7E-254ADB79FABE}.Debug|x86.Build.0 = Debug|x86
 		{BE92654E-BFBF-43BC-9B7E-254ADB79FABE}.Release|x86.ActiveCfg = Release|x86
 		{BE92654E-BFBF-43BC-9B7E-254ADB79FABE}.Release|x86.Build.0 = Release|x86
+		{0A6304DA-B7F9-4E2A-B7CA-12F8702D5D4E}.Debug|x86.ActiveCfg = Debug|x86
+		{0A6304DA-B7F9-4E2A-B7CA-12F8702D5D4E}.Debug|x86.Build.0 = Debug|x86
+		{0A6304DA-B7F9-4E2A-B7CA-12F8702D5D4E}.Release|x86.ActiveCfg = Release|x86
+		{0A6304DA-B7F9-4E2A-B7CA-12F8702D5D4E}.Release|x86.Build.0 = Release|x86
+		{ED9FBB25-CC24-4934-9BCB-C1E4CB2EBE02}.Debug|x86.ActiveCfg = Debug|x86
+		{ED9FBB25-CC24-4934-9BCB-C1E4CB2EBE02}.Debug|x86.Build.0 = Debug|x86
+		{ED9FBB25-CC24-4934-9BCB-C1E4CB2EBE02}.Release|x86.ActiveCfg = Release|x86
+		{ED9FBB25-CC24-4934-9BCB-C1E4CB2EBE02}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
